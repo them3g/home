@@ -1,9 +1,15 @@
+.hello {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .title {
   width:30%;
   margin: 0 auto;
 }
 
-.hello {
+.message {
   width:55%;
   margin: 0 auto;
 }
